@@ -24,4 +24,6 @@ public class Person implements Serializable {
     private String name;
 
     private LocalDate birth;
+    
+    private String cpf;
 }
