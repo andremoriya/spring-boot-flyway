@@ -1,5 +1,5 @@
 # spring-boot-flyway
-A Spring Boot sample project with flyway and H2Database
+A Spring Boot example project with flyway and H2Database
 
 This project has a two branches.
 
